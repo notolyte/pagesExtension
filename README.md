@@ -1,4 +1,4 @@
-# Pages Extension (for Chrome)
+# GitHub Pages Extension (for Chrome)
 
 ## Function
 With this extension, you can view the website on GitHub Pages just by right-cliking the link of an html file in the repository and choose a newly added menu "preview in GitHub Pages" in the context menus. Besides, you can see the code list on GitHub just by right-cliking on a website on GitHub Pages and choose an option "show the source codes" in the menu.  
