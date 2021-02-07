@@ -22,11 +22,9 @@ chrome.contextMenus.create(
 chrome.contextMenus.onClicked.addListener(function (info) {
     switch (info.menuItemId) {
         case "repository":
-            chrome.tabs.query({ active: true, lastFocusedWindow: true }, function (tab) {
-                var target = info.linkUrl;
-                target = target.replace(/https?:\/\/github\.com\/(.+)\/(.+)\/blob\/.+\/(.+)/, "https://$1.github.io/$2/$3");
-                chrome.tabs.create({ url: target });
-            });
+            var target = info.linkUrl;
+            target = target.replace(/https?:\/\/github\.com\/(.+)\/(.+)\/blob\/.+\/(.+)/, "https://$1.github.io/$2/$3");
+            chrome.tabs.create({ url: target });
             break;
         case "pages":
             chrome.tabs.query({ active: true, lastFocusedWindow: true }, function (tab) {
