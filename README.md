@@ -6,7 +6,7 @@ The permission to access github.com and *.github.io are given by nature. Unless 
 
 ## Install
 First, download [the src directory](https://github.com/leenamgwang/pagesExtension/tree/main/src) to wherever you like.  
-Second, Access extensions list ([for Google Chrome](chrome://extensions), [for Opera](extensions), [for Edge](edge://extensions)), enable "Developer Mode" by turning on the switch in the upper right corner, and load the source files you've just donwloaded from "load unpacked" button. Now done.
+Second, Access extensions list (Google Chrome: "chrome://extensions", Opera: "extensions", Edge: "edge://extensions")), enable "Developer Mode" by turning on the switch in the upper right corner, and load the source files you've just donwloaded from "load unpacked" button. Now done.
 
 ## Publishment
 I didn't publish the source file because I was not motivated enough, since I just made this tool for my convenience. However, if you want to publish this extension, you can apply for the store in place of me, without any permission or contact. Instead, note the link to my repository to the introduction or anywhere, if you submit the source file perfectly as I coded.
