@@ -5,7 +5,7 @@ With this extension, you can view the website on GitHub Pages just by right-clik
 The permission to access github.com and *.github.io are given by nature. Unless you would like to use this tool in all the websites containing a link to a html file on GitHub (this must be a very rare case!), you don't need to show the icon on the address bar or anywhere.
 
 ## Install
-First, download [the src directory](https://github.com/leenamgwang/pagesExtension/tree/main/src) to wherever you like.  
+First, download [the src directory](https://github.com/notolyte/pagesExtension/tree/main/src) to wherever you like.  
 Second, Access extensions list (Google Chrome: "chrome://extensions", Opera: "extensions", Edge: "edge://extensions")), enable "Developer Mode" by turning on the switch in the upper right corner, and load the source files you've just donwloaded from "load unpacked" button. Now done.
 
 ## Publishment
